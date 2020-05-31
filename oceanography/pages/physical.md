@@ -17,4 +17,6 @@ Circulation and climate
 Hazards 
     The ocean is always changing so that could sometimes result in threats to humans. 
     Some examples are earthquakes, tsunamis, and hurricanes. 
+    
+    <img src="oceanographythree.jpg">
 
