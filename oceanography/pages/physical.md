@@ -5,7 +5,7 @@ permalink: /physical/
 ---
 
 <h2> Physical </h2>
-*
+
 Properties of seawater, it movements, and how ocean waters interact with the atmosphere. 
 Sea water- Temperature, density and pressure.
 Movements-  Waves, currents, and tides.   
