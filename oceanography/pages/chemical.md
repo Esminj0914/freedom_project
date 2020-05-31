@@ -5,7 +5,7 @@ permalink: /chemical/
 ---
 
 <h2> Chemical </h2>
-*
+
 SEA WATER
     
     The chemistry of the ocean is closely tied to ocean circulation, climate, the plants and animals that live in the ocean, and the exchange of material with the atmosphere, cryosphere, continents, and mantle.
