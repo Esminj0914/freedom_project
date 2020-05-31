@@ -1,6 +1,14 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: default
 ---
+
+  <h2>Main Page</h2>
+  
+  ##image
+  
+ <p>The main purpose of this website is to inform the people of the many studies of oceanography and how important it is for the world. Oceanographic research is important to many of the nation's social concerns, including the following: Global Change. The ocean plays a predominant role in regulating both natural and human-induced changes in our planet.</p>
+ 
+
+
+
+
