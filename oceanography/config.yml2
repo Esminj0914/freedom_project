@@ -3,7 +3,7 @@ email: esminj0914@hstat.org
 description: >
   Website about oceanography
 baseurl: ""
-url: "http://localhost:4000"
+url: "https://b0ab847a38e14be188c1dac82ec22c1a.vfs.cloud9.us-west-2.amazonaws.com/"
 github_username:  Esmin0914
 # Build Settings
 sass:
