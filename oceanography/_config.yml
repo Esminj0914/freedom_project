@@ -22,7 +22,7 @@ title: Oceanography
 email: EmriN5347@hstat.org EsminJ0914@hstat.org
 description: Inform people about the ocean and details about how the ocean works. This will show the importance of the ocean. Oceanography is the study of the physical and biological aspects of the ocean. 
 baseurl: "freedom_project" 
-url: "https://esminj0914.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  EmriN5347 EsminJ0914
 sass:
   sass_dir: _sass
