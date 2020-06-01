@@ -24,6 +24,4 @@ BIOCHEMICAL
 
 <hr>
 
-<img src="oceanographytwo.jpg" width="200px" height="200px">
-
 
